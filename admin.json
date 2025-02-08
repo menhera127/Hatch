@@ -1,16 +1,16 @@
 {
   "prefix": "!",
   "adminUIDs": [
-    "Global Administrator UID"
+    "61569475475845"
   ],
   "moderatorUIDs": [
     "MODERATOR UID",
-    "",
-    ""
+    "61571259684218",
+    "61569475475845"
   ],
-  "botName": "Your botName",
-  "ownerName": "Your Name",
-  "facebookLink": "Facebook link",
+  "botName": "kun",
+  "ownerName": "Thataone",
+  "facebookLink": "https://www.facebook.com/INTRODUCTION.507",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
